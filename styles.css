@@ -200,7 +200,7 @@
 
 /* Main Content CSS */
 .main {
-  background-color: #141414;
+  background-color: #005043;
 }
 
 .main__container {
@@ -210,7 +210,7 @@
   justify-self: center;
   margin: 0 auto;
   height: 90vh;
-  background-color: #131313;
+  background-color: #005043;
   z-index: 1;
   width: 100%;
   max-width: 1300px;
@@ -237,8 +237,8 @@
 .main__content h2 {
   font-size: 4rem;
   margin-top: 10px;
-  background-color: #ff8177;
-  background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+  background-color: #00ff6a;
+  background-image: linear-gradient(-20deg, #ff0000 0%, #ffa600 100%);
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
@@ -357,7 +357,7 @@
 
 /* Services Section */
 .services {
-  background: #131313;
+  background: #00362d;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -482,7 +482,7 @@
 
 /* Footer CSS */
 .footer__container {
-  background-color: #141414;
+  background-color: #005043;
   padding: 5rem 0;
   display: flex;
   flex-direction: column;
